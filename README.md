@@ -1,2 +1,2 @@
-# Integrate_Icinga_collectd_Influxdb-
+# Integrate_Icinga_collectd_Influxdb
 
